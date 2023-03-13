@@ -23,6 +23,9 @@ img{
 body{
     background-color: #b4b4e7;
 }
+a{
+    text-decoration: none;
+}
 a:link {
     color:#8a2be2
 
