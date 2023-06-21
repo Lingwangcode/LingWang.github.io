@@ -39,3 +39,6 @@ a:hover{
 a:active{
     color: #a52a2a;
 }
+*{
+    text-align: center;
+}
