@@ -21,7 +21,7 @@ img{
     object-fit: cover;
 }
 body{
-    background-color: 9376E0;
+    background-color: #B2A4FF;
 }
 a{
     text-decoration: none;
@@ -48,6 +48,18 @@ ul{
     padding: 0; /* Remove padding */
     margin: 0; /* Remove margins */
     
-  }
+}
+h1{
+    background-color: #FFB4B4;
+   
+}
+h2{
+    background-color: #FFDEB4;
+   
+}
+h3{
+    background-color: #FDF7C3;
+}
+
 
 
