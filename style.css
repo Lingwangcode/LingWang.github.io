@@ -14,7 +14,12 @@ h1 {
 p {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+*{
+    text-align: center;
+}
 #start-text {
+    text-align: left;
     display: block;
     height: 500px;
     width: 500px;
@@ -29,10 +34,10 @@ p {
     margin-right: 20px;
     
 }
-.heading{
+.heading {
     margin-top: 50px;
 }
-header{
+header {
     background-color: rgb(196, 106, 184);
 }
 .content{
@@ -64,9 +69,7 @@ a:hover{
 a:active{
     color: #a52a2a;
 }
-*{
-    text-align: center;
-}
+
 
 ul{
     list-style-type: none; /* Remove bullets */
